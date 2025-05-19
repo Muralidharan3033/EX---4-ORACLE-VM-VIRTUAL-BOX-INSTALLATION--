@@ -1,4 +1,4 @@
-# Ex.3 Virtualization: Installation and configuration of Oracle VirtualBox & Kali Linux, and execution of Linux commands
+# EX 3 - VIRTUALIZATION: INSTALLATION AND CONFIGURATION OF ORACLE VIRTUALBOX & KALI LINUX, AND EXECUTION OF BASIC LINUX COMMANDS
 
 ## Register number : 212223040120
 ## Name: MURALIDHARAN M 
